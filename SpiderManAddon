@@ -32,9 +32,33 @@
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/snljf1.mcaddon",
-      "path": "Download/spiderman2.mcaddon",
+      "path": "Download/JeySuperhero.mcaddon",
       "image": "https://raw.githubusercontent.com/dimajadid/digimods/main/Spider-icon.png",
-      "title": "Mod: Spider-man",
+      "title": "Mod: El Sando Spider-Man",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/rp4ewu.mcaddon",
+      "path": "Download/spiderman2.mcaddon",
+      "image": "https://raw.githubusercontent.com/dimajadid/digimods/main/jeys-superheroes_4.png",
+      "title": "Mod: Spider-man 1",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/ygg65t.mcaddon",
+      "path": "Download/spiderman-no-way-home-addon.mcaddon",
+      "image": "https://raw.githubusercontent.com/dimajadid/digimods/main/minecraft-spiderman-no-way-home-addon-el-sando_7.png",
+      "title": "Mod: spiderman no way home",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/h4ndo5.mcaddon",
+      "path": "Download/spider_man_remake_v2.mcaddon",
+      "image": "https://raw.githubusercontent.com/dimajadid/digimods/main/unnamed.jpg",
+      "title": "Spider-Man Remake V2",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
